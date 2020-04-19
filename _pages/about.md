@@ -3,17 +3,11 @@ layout: content
 title: About
 permalink: /about/
 ---
-Wah a gwaan? Welcome to my personal blog. My name is Jon-Tait Beason, but most people call me Jazbo. I enjoy making things, especially with software.
+Welcome to my personal blog. My name is Jon-Tait Beason, but most people call me Jazbo. I like to learn and create new things, talk about creating things, and hang out in software engineering communities. Here, you can expect to find musings about life, creativity, software engineering and personal growth.
 
 ----
 
-## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
+## Link Up
 
-----
-
-## Etcetera
-
-- [Instagram](https://www.instagram.com/) for 📸
-- [LinkedIn](https://www.linkedin.com/in/jontaitbeason) for 👨🏾‍💻
+- [Instagram](https://www.instagram.com/bugkrusha) 📸
+- [LinkedIn](https://www.linkedin.com/in/jontaitbeason) 👨🏾‍💻
